@@ -1,0 +1,9 @@
+Introduction
+
+Nikhil wants to open his gym in some neighborhood of Mumbai, India.
+He is asking our help in finding the best neighborhood.
+
+Business Problem 
+
+In order to open Nikhil's gym, we will have the need to use some information about the neighborhoods in Mumbai.
+We must be sure that the place where the gym is opened will have enough customers and also that there aren't a large ammount of gyms in the place.

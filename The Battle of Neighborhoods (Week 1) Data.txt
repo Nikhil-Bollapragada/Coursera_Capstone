@@ -1,0 +1,15 @@
+Data
+
+To help Nikhil in his search we will need to access following data:
+
+- The Localities of Mumbai, India from Wikipedia: https://en.wikipedia.org/wiki/List_of_neighbourhoods_in_Mumbai
+
+- The coordinates (latitude, longitude) ot these neighborhoods of Mumbai from Open Street Map APIs
+
+- From Foursquare we will need following venues data:
+  - the gym venues of the neighborhood
+  - the offices venues of the neighborhood
+  - the high schools venues of the neighborhood
+  - the universities venues of the neighborhood
+
+We will then leverage the data in order to determine which locality is the most appropriate in order to locate the gym. 
