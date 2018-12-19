@@ -5,5 +5,7 @@ He is asking our help in finding the best neighborhood.
 
 Business Problem 
 
-In order to open Nikhil's gym, we will have the need to use some information about the neighborhoods in Mumbai.
-We must be sure that the place where the gym is opened will have enough customers and also that there aren't a large ammount of gyms in the place.
+In order to open Nikhil's gym:
+1. We will have to use some information about the neighborhoods in Mumbai.
+2. We must be sure that the neighborhood where the gym is opened will have enough customers.
+3. Also there shouldn't be a large ammount of gyms in the same neighborhood.
